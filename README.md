@@ -8,4 +8,4 @@ Estudiante de la carrera de Ingeniería Informática y Desarrollador Full Stack 
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/braian-miete/)
-[![gmail](https://img.shields.io/badge/Gmail-f6f8fc?style=for-the-badge&logo=gmail&logoColor=white)](braian.miete@gmail.com)
+[![gmail](https://img.shields.io/badge/Gmail-21262D?style=for-the-badge&logo=gmail&logoColor=white)](braian.miete@gmail.com)
